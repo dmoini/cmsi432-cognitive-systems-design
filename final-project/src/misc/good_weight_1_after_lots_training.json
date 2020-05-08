@@ -1,0 +1,9 @@
+{
+  "offense": {
+    "DistanceToNearestFood": 0.21296107077509674,
+    "DistanceToNearestEnemy": -0.04510550640791871,
+    "Bias": -0.39412083208837134,
+    "Safety": 0.5763605967331149
+  },
+  "defense": {}
+}
